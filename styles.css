@@ -21,6 +21,10 @@ button:hover {
     background-color: hsl(210, 100%, 60%);
 }
 
+button:active {
+    background-color: hsl(210, 100%, 50%);
+}
+
 .center {
     display: block;
     margin-left: auto;
